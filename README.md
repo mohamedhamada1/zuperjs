@@ -32,6 +32,6 @@ and
 https://developer.android.com/guide/webapps/webview.html
 
 
-update JS file "just update postMesesage line "
+updated JS file "I just update postMesesage line "
 https://side-projects-files.s3.us-east-2.amazonaws.com/js/javascriptcode.js
 
